@@ -42,10 +42,10 @@ home.html
                         }
             .banner {
                 width: 100%;
-                height: 100vh;
-                background-color:rgb(73, 198, 154);
+                height: 100vh ;
                 background-size: cover;
                 background-position: center;
+
             }
             .navbar {
                 width: 85%;
@@ -176,7 +176,7 @@ home.html
             }
         </style>
     </head>
-<body>
+<body background="image.webp">
     <div class="banner">
         <br>
         <div class="navbar">
@@ -210,6 +210,7 @@ home.html
     </footer>
 </body>
 </html>
+
 ```
 products.html
 ```
@@ -226,7 +227,6 @@ products.html
             .banner {
                 width: 100%;
                 height: 100vh;
-                background-color:rgb(73, 198, 154);
                 background-size: cover;
                 background-position: center;
             }
@@ -311,19 +311,19 @@ products.html
             .container .box-container .box {
                 color: white;
                 box-shadow: 0 5px 10px rgba(0,0,0,.2);
-                border-radius: 20px;
+                border-radius: 10px;
                 background: transparent;
                 border: 1px solid white;
-                padding: 30px 20px;
+                padding: 10px 5px;
             }
             .container .box-container .box img {
-                height: 70px;
+                height: 50px;
                 border-radius: 20px;
             }
             .container .box-container .box h3 {
                 color: gold;
                 font-size: large;
-                padding: 60px 0;
+                padding: 10px 0;
             }
             .container .box-container .box p {
                 color: white;
@@ -336,7 +336,7 @@ products.html
             }
         </style>
     </head>
-<body>
+<body background="image.webp">
     <div class="banner">
         <br>
         <div class="navbar">
@@ -379,7 +379,42 @@ products.html
                     <h3>Java Script</h3>
                     <p>Transforming web landscapes with dynamic interactivity and client-side wizardry.</p>
                 </div>
-              
+                <div class="box">
+                    <img src="sql.png" alt="">
+                    <h3>SQL</h3>
+                    <p>It is used to manage data in database management system and particularly useful in handling structured data.</p>
+                </div>
+                <div class="box">
+                    <img src="html.png" alt="">
+                    <h3>HTML</h3>
+                    <p>designed to be displayed in a web browser. It defines the content and structure of web content. </p>
+                </div>
+                <div class="box">
+                    <img src="CSS.png" alt="">
+                    <h3>CSS</h3>
+                    <p>CSS basics walks through what you need to get started.a simple mechanism for adding style</p>
+                </div>
+                <div class="box">
+                    <img src="c1.png" alt="">
+                    <h3>C#</h3>
+                    <p> a general-purpose high-level programming language supporting multiple paradigms</p>
+                </div>
+                <div class="box">
+                    <img src="php.png" alt="">
+                    <h3>PHP</h3>
+                    <p>a server scripting language, and a powerful tool for making dynamic and interactive Web pages. </p>
+                </div>
+                <div class="box">
+                    <img src="go.png" alt="">
+                    <h3>GO</h3>
+                    <p>open source programming language that makes it simple to build secure, scalable systems.</p>
+                </div>
+                <div class="box">
+                    <img src="ruby.png" alt="">
+                    <h3>RUBY</h3>
+                    <p> open source programming language with a focus on simplicity and productivity..</p>
+                </div>
+ 
             </div>
         </div>
     </div>
@@ -404,7 +439,6 @@ person.html
             .banner {
                 width: 100%;
                 height: 100vh;
-                background-color:rgb(73, 198, 154);
                 background-size: cover;
                 background-position: center;
             }
@@ -504,7 +538,7 @@ person.html
             }
         </style>
     </head>
-<body>
+<body background="image.webp">
     <div class="banner">
         <br>
         <div class="navbar">
@@ -553,6 +587,7 @@ person.html
     </footer>
 </body>
 </html>
+
 ```
 contact.html
 ```
@@ -569,7 +604,6 @@ contact.html
             .banner {
                 width: 100%;
                 height: 100vh;
-                background-color:rgb(73, 198, 154);
                 background-size: cover;
                 background-position: center;
             }
@@ -730,7 +764,7 @@ contact.html
             }
         </style>
     </head>
-<body>
+<body background="image.webp">
     <div class="banner">
         <br>
         <div class="navbar">
@@ -774,17 +808,21 @@ contact.html
     </footer>
 </body>
 </html>
+
 ```
 
 
 ## OUTPUT:
-![image](https://github.com/priyadharshini210/softweb/assets/148514638/fefc6dd5-a6c2-496d-84e8-6b413acbfd55)
-![image](https://github.com/priyadharshini210/softweb/assets/148514638/d9d93fd5-9bb1-46a8-8eb7-46d1d20a0668)
-![image](https://github.com/priyadharshini210/softweb/assets/148514638/dd60c71a-591f-4dc1-a81f-12cd729a30f6)
-![image](https://github.com/priyadharshini210/softweb/assets/148514638/de92bf33-8261-416b-aefe-00fb56b3963e)
+![image](https://github.com/priyadharshini210/softweb/assets/148514638/8eb060de-f589-495b-b450-7d1f62131c26)
+![image](https://github.com/priyadharshini210/softweb/assets/148514638/8c693897-a444-49f8-9a69-073992ac7f2b)
+![image](https://github.com/priyadharshini210/softweb/assets/148514638/132dc365-8206-4076-a053-dba66c2447be)
+![image](https://github.com/priyadharshini210/softweb/assets/148514638/1c0dfe2d-aeb2-4f15-95eb-cc4cfd354cab)
+
+
 
 ## CODE:
-![image](https://github.com/priyadharshini210/softweb/assets/148514638/dcc03b0c-90c6-420a-8be4-174075bb8cc7)
+![image](https://github.com/priyadharshini210/softweb/assets/148514638/458f18c3-f0e6-440a-aed5-850dd2670ba8)
+
 
 ## RESULT:
 The program for designing software company website using HTML and CSS is completed successfully.
