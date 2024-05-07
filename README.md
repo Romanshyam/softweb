@@ -1,5 +1,5 @@
 # Ex.07 Software Product Company Website
-## Date: 17/04/2024
+## Date:
 
 ## AIM:
 To develop a static company website to display the softwares and services provided by the company.
@@ -206,7 +206,7 @@ home.html
         </div>  
     </div>
     <footer>
-        <center> Designed and Developed by Shyam Kumar E (2122230207) </center>
+        <center> Designed and Developed by Shyam Kumar E (212223230207) </center>
     </footer>
 </body>
 </html>
@@ -420,7 +420,7 @@ products.html
         </div>
     </div>
     <footer>
-        <center> Designed and Developed by Shyam Kumar E (2122230207) </center>
+        <center> Designed and Developed by Shyam Kumar E (212223230207) </center>
     </footer>
 </body>
 </html>
