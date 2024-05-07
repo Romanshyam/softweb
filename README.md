@@ -176,14 +176,14 @@ home.html
             }
         </style>
     </head>
-<body background="image.webp">
+<body background="imge.jpeg">
     <div class="banner">
         <br>
         <div class="navbar">
             <h1 class="logo">C<span>ode</span>V<span>erse</span></h1>
             <ul>
-                <li><a href="homepage.html"> Home </a></li>
-                <li><a href="Products.html"> Products </a></li>
+                <li><a href="home.html"> Home </a></li>
+                <li><a href="products.html"> Products </a></li>
                 <li><a href="person.html"> People </a></li>
                 <li><a href="contact.html"> Contact </a></li>
             </ul>
@@ -206,10 +206,11 @@ home.html
         </div>  
     </div>
     <footer>
-        <center> Designed and Developed by Priyadharshini P (212223240128) </center>
+        <center> Designed and Developed by Shyam Kumar E (2122230207) </center>
     </footer>
 </body>
 </html>
+
 
 ```
 products.html
@@ -336,14 +337,14 @@ products.html
             }
         </style>
     </head>
-<body background="image.webp">
+<body background="imge.jpeg">
     <div class="banner">
         <br>
         <div class="navbar">
             <h1 class="logo">C<span>ode</span>V<span>erse</span></h1>
             <ul>
-                <li><a href="homepage.html"> Home </a></li>
-                <li><a href="Products.html"> Products </a></li>
+                <li><a href="home.html"> Home </a></li>
+                <li><a href="products.html"> Products </a></li>
                 <li><a href="person.html"> People </a></li>
                 <li><a href="contact.html"> Contact </a></li>
             </ul>
@@ -355,12 +356,12 @@ products.html
         <div class="container">
             <div class="box-container">
                 <div class="box">
-                    <img src="python.jpeg" alt="">
+                    <img src="py logo.jpeg" alt="">
                     <h3>Python</h3>
                     <p>Where simplicity meets power in the world of programming.</p>
                 </div>
                 <div class="box">
-                    <img src="c.png" alt="">
+                    <img src="c logo.jpeg" alt="">
                     <h3>C pgg </h3>
                     <p> Coding resilience in C: Unleashing the raw power of systems programming.</p>
                 </div>
@@ -375,7 +376,7 @@ products.html
                     <p>Brewing cross-platform magic with the steaming cup of robust and versatile programming.</p>
                 </div>
                 <div class="box">
-                    <img src="javascript.png" alt="">
+                    <img src="java s.png" alt="">
                     <h3>Java Script</h3>
                     <p>Transforming web landscapes with dynamic interactivity and client-side wizardry.</p>
                 </div>
@@ -390,7 +391,7 @@ products.html
                     <p>designed to be displayed in a web browser. It defines the content and structure of web content. </p>
                 </div>
                 <div class="box">
-                    <img src="CSS.png" alt="">
+                    <img src="css.png" alt="">
                     <h3>CSS</h3>
                     <p>CSS basics walks through what you need to get started.a simple mechanism for adding style</p>
                 </div>
@@ -419,7 +420,7 @@ products.html
         </div>
     </div>
     <footer>
-        <center> Designed and Developed by Priyadharshini P (212223240128) </center>
+        <center> Designed and Developed by Shyam Kumar E (2122230207) </center>
     </footer>
 </body>
 </html>
@@ -538,14 +539,14 @@ person.html
             }
         </style>
     </head>
-<body background="image.webp">
+<body background="imge.jpeg">
     <div class="banner">
         <br>
         <div class="navbar">
             <h1 class="logo">C<span>ode</span>V<span>erse</span></h1>
             <ul>
-                <li><a href="homepage.html"> Home </a></li>
-                <li><a href="Products.html"> Products </a></li>
+                <li><a href="home.html"> Home </a></li>
+                <li><a href="products.html"> Products </a></li>
                 <li><a href="person.html"> People </a></li>
                 <li><a href="contact.html"> Contact </a></li>
             <form action="" method="get">
@@ -556,20 +557,20 @@ person.html
         <div class="image">
             <table cellspacing="20"> 
                 <tr align="center">
-                    <td> <img src="my image.jpg"> </td>
-                    <td> <img src="tae.jpeg"> </td>
-                    <td> <img src="che.jpeg"> </td>
-                    <td> <img src="mingyu.jpeg"> </td>
-                    <td> <img src="song.webp"> </td>
-                    <td> <img src="iu.jpg"> </td>
+                    <td> <img src="shyam profile pic - Copy.jpg"> </td>
+                    <td> <img src="dhoni.jpeg"> </td>
+                    <td> <img src="virat.jpeg"> </td>
+                    <td> <img src="rohit.jpeg"> </td>
+                    <td> <img src="jaddu.jpeg"> </td>
+                    <td> <img src="abd.jpeg"> </td>
                 </tr>
                 <tr align="center">
-                    <th> Priyadharshini.P </th>
-                    <th> Taehyung </th>
-                    <th> Che Zheyuan</th>
-                    <th> Mingyu </th>
-                    <th> Songkang</th>
-                    <th> IU </th>
+                    <th> Shyam Kumar E </th>
+                    <th> MS.Dhoni </th>
+                    <th>Virat</th>
+                    <th> Rohit </th>
+                    <th> Jadeja</th>
+                    <th> ABD </th>
                 </tr>
                 <tr align="center">
                     <td> CEO </td>
@@ -583,10 +584,11 @@ person.html
         </div>
     </div>
     <footer>
-        <center> Designed and Developed by Priyadharshini P (212223240128) </center>
+        <center> Designed and Developed by Shyam Kumar E (212223230207) </center>
     </footer>
 </body>
 </html>
+
 
 ```
 contact.html
@@ -764,14 +766,14 @@ contact.html
             }
         </style>
     </head>
-<body background="image.webp">
+<body background="imge.jpeg">
     <div class="banner">
         <br>
         <div class="navbar">
             <h1 class="logo">C<span>ode</span>V<span>erse</span></h1>
             <ul>
-                <li><a href="homepage.html"> Home </a></li>
-                <li><a href="Products.html"> Products </a></li>
+                <li><a href="home.html"> Home </a></li>
+                <li><a href="products.html"> Products </a></li>
                 <li><a href="person.html"> People </a></li>
                 <li><a href="contact.html"> Contact </a></li>
             </ul>
@@ -797,26 +799,31 @@ contact.html
             </div>
             <div class="box-2"> 
                 <h2> Contact Information </h2>
-                <p> <span>Address</span> : 159,Kamatchi Nagar 2nd street Pallikaranai,Chennai   ch-600100. </p>
+                <p> <span>Address</span> : 15,kurinji Nagar 2nd street Puthagaram,Chennai   ch-600099. </p>
                 <p> <span>Email</span> : codeverse@gmail.com.com </p>
                 <p> <span>Phone</span> : 044 87536890 </p>
             </div>
         </div>
     </div>
     <footer>
-        <center> Designed and Developed by Priyadharshini P (212223240128)</center>
+        <center> Designed and Developed by Shyam Kumar E (212223230207)</center>
     </footer>
 </body>
 </html>
+
 
 ```
 
 
 ## OUTPUT:
-![image](https://github.com/priyadharshini210/softweb/assets/148514638/8eb060de-f589-495b-b450-7d1f62131c26)
-![image](https://github.com/priyadharshini210/softweb/assets/148514638/8c693897-a444-49f8-9a69-073992ac7f2b)
-![image](https://github.com/priyadharshini210/softweb/assets/148514638/132dc365-8206-4076-a053-dba66c2447be)
-![image](https://github.com/priyadharshini210/softweb/assets/148514638/1c0dfe2d-aeb2-4f15-95eb-cc4cfd354cab)
+![Screenshot 2024-05-07 224946](https://github.com/Romanshyam/softweb/assets/123962992/c688e941-5b9b-473a-83eb-e449c1260a32)
+![Screenshot 2024-05-07 225015](https://github.com/Romanshyam/softweb/assets/123962992/8636f5bc-ec68-4d54-aba6-69f7a9c69ce6)
+![Screenshot 2024-05-07 225037](https://github.com/Romanshyam/softweb/assets/123962992/8b70873a-50f7-4b36-b7c9-94ac1462e13b)
+![Screenshot 2024-05-07 225102](https://github.com/Romanshyam/softweb/assets/123962992/c2cdd79e-ae03-475b-a095-ad3afa8cb18c)
+
+
+
+
 
 
 
